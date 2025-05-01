@@ -8,3 +8,5 @@ wails build -skipbindings -platform windows/amd64
 
 ## linux:
 wails build
+
+![alt text](image.png)
